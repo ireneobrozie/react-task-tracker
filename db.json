@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": "03c7",
+      "text": "Take out the trash",
+      "day": "Evening",
+      "reminder": true
+    },
+    {
+      "id": "dc4d",
+      "text": "Read a book",
+      "day": "Everyday, 7pm",
+      "reminder": true
+    },
+    {
+      "id": "6ab6",
+      "text": "Say a prayer for...",
+      "day": "wednesday, 9pm",
+      "reminder": false
+    }
+  ]
+}
